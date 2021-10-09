@@ -1,3 +1,5 @@
-# todos-app2
-Created with CodeSandbox
-## Chekch in SandBox :- https://codesandbox.io/s/github/Anshuman301/todos-app2
+## This is a TODO application developed using React & Redux.
+### Included functionalities: Add a task, Remove a task, Clear list and save using state.
+### You can use this application here: https://saadhjawwadh.github.io/TODO-App-React/
+#### Special thanks to Programming Knowledge for guidances.
+
